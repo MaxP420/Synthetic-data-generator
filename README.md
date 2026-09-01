@@ -1,7 +1,6 @@
 # Synthetic Data Generation for Automated YOLO Model Training for Formula Student
 
-## Video Demo
-https://youtu.be/CqN454IMYRY
+
 
 
 ## Description
