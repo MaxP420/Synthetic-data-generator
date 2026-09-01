@@ -3,13 +3,12 @@ import sys
 import time
 import paths
 
-# ============================================================
+
 #  Settings 
-# ============================================================
 RUNS = 100
-WARTE_SEKUNDEN_CONVERTER = 5                               # Sekunden nach "Blender quit" bis Converter startet
-STOP_SIGNAL              = "Cleaning temporary directory"  # Erkennungsstring im Terminal
-# ============================================================
+WARTE_SEKUNDEN_CONVERTER = 5                               
+STOP_SIGNAL              = "Cleaning temporary directory"  
+
 
 
 def run_generator():
