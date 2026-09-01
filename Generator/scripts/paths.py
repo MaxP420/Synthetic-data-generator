@@ -1,7 +1,6 @@
 from pathlib import Path
 
-# Basisverzeichnis: der Ordner, in dem paths.py liegt (scripts/),
-# davon ausgehend eine Ebene hoch zum "Generator"-Ordner
+
 SCRIPTS_DIR = Path(__file__).resolve().parent
 GENERATOR_DIR = SCRIPTS_DIR.parent
 
