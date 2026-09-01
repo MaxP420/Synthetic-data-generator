@@ -45,8 +45,8 @@ project-root/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/MaxP420/Synthetic-data-generator.git
+cd Synthetic-data-generator
 ```
 
 ### 2. Install BlenderProc
